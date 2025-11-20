@@ -8,6 +8,8 @@ Original file is located at
 """
 
 #!/usr/bin/env python3
+
+# 
 """
 Алгоритма Нидлмана-Вунша.
 """
